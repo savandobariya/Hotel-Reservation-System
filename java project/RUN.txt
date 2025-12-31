@@ -1,0 +1,17 @@
+Hotel Reservation System
+------------------------
+
+Files:
+- com/hotel/HotelReservationSystem.java
+- com/hotel/Room.java
+- com/hotel/StandardRoom.java
+- com/hotel/DeluxeRoom.java
+- com/hotel/SuiteRoom.java
+- com/hotel/Reservation.java
+
+How to compile & run:
+1. Open terminal in the folder that contains the 'com' directory.
+2. Compile:
+   javac com/hotel/*.java
+3. Run:
+   java com.hotel.HotelReservationSystem
